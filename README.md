@@ -32,6 +32,7 @@ It also provides **visualizations** (charts & pie graphs) for insights.
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
+---
 
 2️. Create a virtual environment & install dependencies
 
