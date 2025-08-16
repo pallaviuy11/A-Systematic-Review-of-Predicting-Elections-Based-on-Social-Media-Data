@@ -13,9 +13,10 @@ It also provides **visualizations** (charts & pie graphs) for insights.
 - **Frontend:** HTML, CSS, Jinja2 Templates
 - **Libraries:** Pandas, NumPy, Pickle
 
----
+
 
 -> Project Structure
+
 ├── app.py # Main Flask application
 ├── vote.pickle # Trained ML model
 ├── tfid.pickle # TF-IDF Vectorizer
@@ -27,6 +28,7 @@ It also provides **visualizations** (charts & pie graphs) for insights.
 -> Getting Started
 
 1. Clone the repository
+
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
